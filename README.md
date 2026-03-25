@@ -43,7 +43,7 @@ I share:
 
 ---
 
-## 🛠️ Approach
+## 🛠️ Design Principles
 
 - Clean and functional interfaces  
 - Strong visual structure  
@@ -51,7 +51,7 @@ I share:
 
 ---
 
-## 🎯 Goal
+## 🎯 Vision
 
 Building digital products and documenting the journey.
 
