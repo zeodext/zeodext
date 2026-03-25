@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**zeodext/zeodext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Zeodext</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Building with Art × Code
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Creative Developer • UI/UX • Front-End • Visual Design
+</p>
+
+---
+
+## About Me
+
+Creative developer working at the intersection of art and code.
+
+I build digital products by combining design and front-end development, while sharing my process and ideas.
+
+---
+
+## What I Do
+
+- UI/UX Design  
+- Front-End Development  
+- Digital / Visual Projects  
+
+---
+
+## Content
+
+I share:
+- Design process  
+- Development workflow  
+- Visual experiments  
+
+---
+
+## Approach
+
+- Clean and functional interfaces  
+- Strong visual structure  
+- User-focused design  
+
+---
+
+## Goal
+
+Building digital products and documenting the journey.
