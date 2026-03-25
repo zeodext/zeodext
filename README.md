@@ -10,9 +10,13 @@ Building with Art × Code
 Creative Developer • UI/UX • Front-End • Visual Design
 </p>
 
+<p align="center">
+🟦 🟩 🟦 🟩 🟦 🟩
+</p>
+
 ---
 
-## About Me
+## 🧠 About Me
 
 Creative developer working at the intersection of art and code.
 
@@ -20,7 +24,7 @@ I build digital products by combining design and front-end development, while sh
 
 ---
 
-## What I Do
+## ⚡ What I Do
 
 - UI/UX Design  
 - Front-End Development  
@@ -28,7 +32,7 @@ I build digital products by combining design and front-end development, while sh
 
 ---
 
-## Content
+## 🎥 Content
 
 I share:
 - Design process  
@@ -37,7 +41,7 @@ I share:
 
 ---
 
-## Approach
+## 🛠️ Approach
 
 - Clean and functional interfaces  
 - Strong visual structure  
@@ -45,6 +49,26 @@ I share:
 
 ---
 
-## Goal
+## 🎯 Goal
 
 Building digital products and documenting the journey.
+
+---
+
+## 🚀 Current Focus
+
+- Improving UI/UX and front-end skills  
+- Building real projects  
+- Creating and sharing content  
+
+---
+
+## 🔗 Connect (Coming Soon)
+
+- YouTube  
+- Portfolio Website  
+- Other Platforms  
+
+<p align="center">
+🟩 ─────────────── 🟦
+</p>
