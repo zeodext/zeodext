@@ -3,7 +3,7 @@
 <h1 align="center">Zeodext</h1>
 
 <p align="center">
-<b>Building with Art × Code</b>
+<b>Let’s create tangible objects through Art × Code.</b>
 </p>
 
 <p align="center">
